@@ -1,0 +1,2931 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.landing-page-Gnc {
+  width: 100%;
+  height: 635.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.landing-page-Gnc .auto-group-v71r-CAU {
+  box-sizing: border-box;
+  padding: 10.5rem 20.5rem 14.9rem 20.5rem;
+  width: 192rem;
+  height: 73.4rem;
+  position: absolute;
+  left: 0;
+  top: 449.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv {
+  margin: 0rem 4.5rem 3.5rem 0rem;
+  width: calc(100% - 4.5rem);
+  height: 14.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-cjks-NjA {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-cjks-NjA .mitra-kami-6v4 {
+  margin-bottom: 2rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-cjks-NjA .kemitraan-kami-dibangun-di-atas-saling-percaya-integritas-dan-visi-yang-sama-untuk-mencapai-keunggulan-bersama-brp {
+  max-width: 46.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L {
+  box-sizing: border-box;
+  padding-left: 8.8rem;
+  height: 100%;
+  display: flex;
+  column-gap: 6.5rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-edcc-nwJ {
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  padding: 1.8rem 0.9rem 2.5rem 2.6rem;
+  display: flex;
+  column-gap: 1.35rem;
+  align-items: center;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-edcc-nwJ .lskk-png-2-Jue {
+  width: 6.9rem;
+  height: 8.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-edcc-nwJ .vector-32-3cL {
+  margin-top: 0.2rem;
+  width: 0;
+  height: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-edcc-nwJ .lskk-yF6 {
+  margin-top: 0.3rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-6xxt-r3z {
+  box-sizing: border-box;
+  padding: 2.2rem 1.9rem 0.4rem 0.3rem;
+  height: 13rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-6xxt-r3z .auto-group-at2k-yeQ {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 0rem 0.25rem 0rem 9.95rem;
+  height: 100%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/pptikid-removebg-preview-bg.png');
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-6xxt-r3z .auto-group-at2k-yeQ .vector-33-JRn {
+  width: 0;
+  height: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-6xxt-r3z .pptik-id-m4U {
+  margin-bottom: 2.4rem;
+  max-width: 12.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.384rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-bczl-31z {
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  padding: 2.2rem 1rem 2.7rem 1.7rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-bczl-31z .f-L16 {
+  margin: 0.1rem 0.85rem 0rem 0rem;
+  width: 8.6rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-bczl-31z .vector-34-G9e {
+  margin-right: 1.35rem;
+  width: 0;
+  height: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-wcnt-rVv .auto-group-rp4p-T8L .auto-group-bczl-31z .pptik-itb-1sv {
+  margin-bottom: 0.1rem;
+  max-width: 12.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.384rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi {
+  margin: 0rem 0rem 4rem 51rem;
+  height: 13rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .vector-CSc {
+  margin: 0rem 3rem 2.2rem 0rem;
+  width: 1.5rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-p1wv-t4Y {
+  margin-right: 6.5rem;
+  box-sizing: border-box;
+  padding: 1.6rem 8.1rem 1.7rem 8.2rem;
+  height: 100%;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-p1wv-t4Y .logo-itb-pTz {
+  width: 9.7rem;
+  height: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-jys4-jax {
+  margin-right: 6.5rem;
+  box-sizing: border-box;
+  padding: 1.6rem 4.4rem 2.2rem 3.9rem;
+  height: 100%;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-jys4-jax .logoubl-removebg-preview-shA {
+  width: 17.7rem;
+  height: 9.2rem;
+  position: relative;
+  background-size: 100% 192.771%;
+  background-position: 0 -3.3253rem;
+  background-image: url('../assets/logoubl-removebg-preview.png');
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-lhjx-hw6 {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.1rem 2.4rem 0.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-lhjx-hw6 .binari-removebg-preview-C7A {
+  margin-right: 1.25rem;
+  width: 9.5rem;
+  height: 8.3rem;
+  position: relative;
+  background-size: 100.84% 116.854%;
+  background-position: -0.0399rem 0;
+  background-image: url('../assets/binari-removebg-preview.png');
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-lhjx-hw6 .vector-35-2bz {
+  margin-right: 1.35rem;
+  width: 0;
+  height: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .auto-group-lhjx-hw6 .binari-MPN {
+  margin-top: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.288rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-h35z-UFi .vector-3X6 {
+  margin-bottom: 2.2rem;
+  width: 1.5rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC {
+  margin-left: 51rem;
+  height: 13rem;
+  display: flex;
+  column-gap: 6.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-xkgy-XSG {
+  box-sizing: border-box;
+  padding: 1.6rem 8.1rem 1.7rem 8.2rem;
+  height: 100%;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-xkgy-XSG .logo-itb-rDe {
+  width: 9.7rem;
+  height: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-ykdr-a9e {
+  box-sizing: border-box;
+  padding: 1.6rem 4.4rem 2.2rem 3.9rem;
+  height: 100%;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-ykdr-a9e .logoubl-removebg-preview-X4t {
+  width: 17.7rem;
+  height: 9.2rem;
+  position: relative;
+  background-size: 100% 192.771%;
+  background-position: 0 -3.3253rem;
+  background-image: url('../assets/logoubl-removebg-preview-frp.png');
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-ggun-c6L {
+  box-sizing: border-box;
+  padding: 2.3rem 2.1rem 2.4rem 0.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0.4rem 0.7rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-ggun-c6L .binari-removebg-preview-96G {
+  margin-right: 1.25rem;
+  width: 9.5rem;
+  height: 8.3rem;
+  position: relative;
+  background-size: 100.84% 116.854%;
+  background-position: -0.0399rem 0;
+  background-image: url('../assets/binari-removebg-preview-pxg.png');
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-ggun-c6L .vector-36-f4c {
+  margin-right: 1.35rem;
+  width: 0;
+  height: 8.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-v71r-CAU .auto-group-a9we-BtC .auto-group-ggun-c6L .binari-bU4 {
+  margin-top: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.288rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q {
+  box-sizing: border-box;
+  padding: 6rem 2rem 9.7rem 2.1rem;
+  width: 192rem;
+  height: 179.4rem;
+  position: absolute;
+  left: 0;
+  top: 270.3rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #0b093b;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 {
+  margin: 0rem 10.7rem 88rem 0rem;
+  width: 15.7rem;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-o48x-4kx {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-o48x-4kx .ellipse-13-CMN {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-o48x-4kx .ellipse-12-LiU {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-o48x-4kx .ellipse-11-VLU {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-zl6u-Pgk {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-zl6u-Pgk .ellipse-16-M7n {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-zl6u-Pgk .ellipse-17-6bA {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-zl6u-Pgk .ellipse-15-ecg {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-rqov-Q64 {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-rqov-Q64 .ellipse-21-uoW {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-rqov-Q64 .ellipse-23-Ta8 {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-rqov-Q64 .ellipse-19-kp8 {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fzv2-hUU {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fzv2-hUU .ellipse-22-3oE {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fzv2-hUU .ellipse-24-NKi {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fzv2-hUU .ellipse-20-6Fi {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-m5tn-qUC {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-m5tn-qUC .ellipse-31-C3r {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-m5tn-qUC .ellipse-35-uDA {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-m5tn-qUC .ellipse-27-ewS {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-mopn-QQp {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-mopn-QQp .ellipse-33-jhz {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-mopn-QQp .ellipse-37-HjW {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-mopn-QQp .ellipse-29-qm2 {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fjb2-AoJ {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fjb2-AoJ .ellipse-32-TnQ {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fjb2-AoJ .ellipse-36-DWg {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-fjb2-AoJ .ellipse-28-a6L {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-lp3a-6aU {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-lp3a-6aU .ellipse-34-Df6 {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-lp3a-6aU .ellipse-38-AqE {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-lp3a-6aU .ellipse-30-KTE {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-ulnc-2Me {
+  width: 100%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-ulnc-2Me .ellipse-51-nLp {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-ulnc-2Me .ellipse-59-jmr {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-296-xC8 .auto-group-ulnc-2Me .ellipse-43-tek {
+  width: 3.9rem;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 {
+  margin-right: 4.9rem;
+  width: 135rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .pilih-paket-sesuai-kebutuhan-anda-nVE {
+  margin-bottom: 6.9rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .pilih-paket-sesuai-kebutuhan-anda-nVE .pilih-paket-sesuai-kebutuhan-anda-nVE-sub-0 {
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .pilih-paket-sesuai-kebutuhan-anda-nVE .pilih-paket-sesuai-kebutuhan-anda-nVE-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .pilih-paket-sesuai-kebutuhan-anda-nVE .pilih-paket-sesuai-kebutuhan-anda-nVE-sub-2 {
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G {
+  margin-bottom: 12rem;
+  width: 100%;
+  height: 69.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N {
+  margin-right: 21.8rem;
+  width: 56.6rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.9rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .frame-16-dgC {
+  box-sizing: border-box;
+  padding: 1.8rem 3rem;
+  width: 30.1875rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 28.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #0b093b;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .frame-16-dgC .vector-YoA {
+  margin-right: 2.5rem;
+  width: 2.4875rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .frame-16-dgC .info-selengkapnya-GjA {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .absensi-bFe {
+  width: 15.6rem;
+  height: 5rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt {
+  width: 29.6rem;
+  height: 14rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 13.2rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt .rp-450000-pu6 {
+  width: 29.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt .rp-450000-pu6 .rp-450000-pu6-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt .rp-450000-pu6 .rp-450000-pu6-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt .rp-450000-pu6 .rp-450000-pu6-sub-2 {
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt .rp-450000-pu6 .rp-450000-pu6-sub-3 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdzp-gnt .per-tahun-9iQ {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 10.85rem;
+  top: 11.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #6e6e6e;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .perangkat-absensi-siap-pakai-RR2 {
+  width: 33.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 9.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .lebih-lengkap--WxG {
+  width: 18.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 63.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-vbfe-2vc {
+  width: 19.3rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 39.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-vbfe-2vc .group-253-LAc {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-vbfe-2vc .buku-panduan-FHa {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-ejlg-b6Y {
+  width: 30.8rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 46.2rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-ejlg-b6Y .group-293-8MN {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-ejlg-b6Y .data-base-up-to-1000-data-Ug8 {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdcl-g1W {
+  width: 20.1rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 52.9rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdcl-g1W .group-294-PwW {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .auto-group-wdcl-g1W .website-admin-M7e {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .vector-30-hBW {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 36.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-298-X7N .vector-31-R7W {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 60.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY {
+  width: 56.6rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.9rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .frame-16-SYQ {
+  box-sizing: border-box;
+  padding: 1.8rem 3rem 1.8rem 3rem;
+  width: 30.1875rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 28.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #0b093b;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .frame-16-SYQ .vector-67A {
+  margin-right: 2.5rem;
+  width: 2.4875rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .frame-16-SYQ .info-selengkapnya-1jv {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .e-jurnal-YE4 {
+  width: 17.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY {
+  width: 29.6rem;
+  height: 14rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 13.2rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY .rp-450000-n8Q {
+  width: 29.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY .rp-450000-n8Q .rp-450000-n8Q-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY .rp-450000-n8Q .rp-450000-n8Q-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY .rp-450000-n8Q .rp-450000-n8Q-sub-2 {
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY .rp-450000-n8Q .rp-450000-n8Q-sub-3 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-x7h2-rkY .per-tahun-iJt {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 10.85rem;
+  top: 11.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #6e6e6e;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .perangkat-jurnal-siap-pakai-QBi {
+  width: 31.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 9.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .lebih-lengkap--uuA {
+  width: 18.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 63.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-wfoe-DQ4 {
+  width: 19.3rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 39.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-wfoe-DQ4 .group-253-kPz {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-wfoe-DQ4 .buku-panduan-GdE {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-tyul-bQc {
+  width: 30.8rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 46.2rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-tyul-bQc .group-293-hCk {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-tyul-bQc .data-base-up-to-1000-data-FEG {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-mkhj-zBr {
+  width: 20.1rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 52.9rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-mkhj-zBr .group-294-j9S {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .auto-group-mkhj-zBr .website-admin-Fda {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .vector-30-n7i {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 36.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-jbhs-E8G .group-299-6UY .vector-31-KtL {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 60.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA {
+  width: 100%;
+  height: 69.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS {
+  margin-right: 21.8rem;
+  width: 56.6rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.9rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .frame-16-XzQ {
+  box-sizing: border-box;
+  padding: 1.8rem 3rem;
+  width: 30.1875rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 28.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #0b093b;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .frame-16-XzQ .vector-RZz {
+  margin-right: 2.5rem;
+  width: 2.4875rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .frame-16-XzQ .info-selengkapnya-n9e {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .e-rapat-HcC {
+  width: 15.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL {
+  width: 29.6rem;
+  height: 14rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 13.2rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL .rp-450000-hfv {
+  width: 29.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL .rp-450000-hfv .rp-450000-hfv-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL .rp-450000-hfv .rp-450000-hfv-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL .rp-450000-hfv .rp-450000-hfv-sub-2 {
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL .rp-450000-hfv .rp-450000-hfv-sub-3 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-nwm6-xiL .per-tahun-PUC {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 10.85rem;
+  top: 11.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #6e6e6e;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .perangkat-absensi-siap-pakai-sPN {
+  width: 33.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 9.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .lebih-lengkap--yBW {
+  width: 18.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 63.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-mfp6-4Tr {
+  width: 19.3rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 39.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-mfp6-4Tr .group-253-mt4 {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-mfp6-4Tr .buku-panduan-j4C {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-xctp-fiY {
+  width: 30.8rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 46.2rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-xctp-fiY .group-293-PPe {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-xctp-fiY .data-base-up-to-1000-data-VSg {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-gkys-zPS {
+  width: 20.1rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 52.9rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-gkys-zPS .group-294-8Ve {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .auto-group-gkys-zPS .website-admin-tDv {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .vector-30-2b2 {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 36.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-300-CBS .vector-31-9vY {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 60.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn {
+  width: 56.6rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3.9rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .frame-16-zRN {
+  box-sizing: border-box;
+  padding: 1.8rem 3rem 1.8rem 3rem;
+  width: 30.1875rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 28.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #0b093b;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .frame-16-zRN .vector-UrL {
+  margin-right: 2.5rem;
+  width: 2.4875rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .frame-16-zRN .info-selengkapnya-38k {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .buku-tamu-NRv {
+  width: 22.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 17.8rem;
+  top: 4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz {
+  width: 29.6rem;
+  height: 14rem;
+  position: absolute;
+  left: 12.1rem;
+  top: 13.2rem;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz .rp-450000-zy6 {
+  width: 29.6rem;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz .rp-450000-zy6 .rp-450000-zy6-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz .rp-450000-zy6 .rp-450000-zy6-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz .rp-450000-zy6 .rp-450000-zy6-sub-2 {
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz .rp-450000-zy6 .rp-450000-zy6-sub-3 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-3dmr-rbz .per-tahun-wvG {
+  width: 10.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 10.85rem;
+  top: 11.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #6e6e6e;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .perangkat-jurnal-siap-pakai-eZn {
+  width: 31.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 11.2rem;
+  top: 9.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .lebih-lengkap--xqN {
+  width: 18.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 18.4rem;
+  top: 63.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-smyr-tDE {
+  width: 19.3rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 39.5rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-smyr-tDE .group-253-E2C {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-smyr-tDE .buku-panduan-X1J {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-x83i-pWC {
+  width: 30.8rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 46.2rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-x83i-pWC .group-293-kek {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-x83i-pWC .data-base-up-to-1000-data-uXe {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-9sgc-EK2 {
+  width: 20.1rem;
+  height: 3.6712rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 52.9rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-9sgc-EK2 .group-294-9Rz {
+  margin-right: 1.8288rem;
+  width: 3.6712rem;
+  height: 3.6712rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .auto-group-9sgc-EK2 .website-admin-drx {
+  margin-bottom: 0.3712rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .vector-30-nE4 {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 36.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .auto-group-r65n-qK6 .group-303-fqr .auto-group-bwjg-STA .group-301-FTn .vector-31-8Yp {
+  width: 47rem;
+  height: 0;
+  position: absolute;
+  left: 5rem;
+  top: 60.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx {
+  margin: 90.9rem 0rem 57.1rem 0rem;
+  height: calc(100% - 148rem);
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-92su-Z8L {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-92su-Z8L .ellipse-11-sPv {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-92su-Z8L .ellipse-12-zjS {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-92su-Z8L .ellipse-13-wua {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-pmuk-hdr {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-pmuk-hdr .ellipse-15-qEG {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-pmuk-hdr .ellipse-17-axY {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-pmuk-hdr .ellipse-16-9Ex {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-p6sl-fDJ {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-p6sl-fDJ .ellipse-19-azU {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-p6sl-fDJ .ellipse-23-j6g {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-p6sl-fDJ .ellipse-21-tEU {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-gsfj-dxk {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-gsfj-dxk .ellipse-20-PS8 {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-gsfj-dxk .ellipse-24-Wme {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-vh3e-G4Q .group-297-ELx .auto-group-gsfj-dxk .ellipse-22-2V6 {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp {
+  box-sizing: border-box;
+  padding: 5.3rem 29.4rem 11.8rem 20.5rem;
+  width: 192rem;
+  height: 103.5rem;
+  position: absolute;
+  left: 0;
+  top: 523.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #0b093b;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-gc4g-qBe {
+  margin: 0rem 23.5rem 3.1rem 0rem;
+  width: 118.6rem;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-gc4g-qBe .kami-menyambut-anda-untuk-bergabung-dalam-kemitraan-AUp {
+  width: 118.6rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-gc4g-qBe .kami-menyambut-anda-untuk-bergabung-dalam-kemitraan-32p {
+  width: 118.6rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .jadilah-mitra-kami-dalam-mewujudkan-kebaikan-untuk-semua-mulai-dengan-konsultasi-pada-cs-yang-ramah-9be {
+  margin: 0rem 69.6rem 3.5rem 0rem;
+  max-width: 72.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 28.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE {
+  margin-right: 72.4rem;
+  width: 48.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE .frame-16-EmW {
+  margin: 0rem 22.813rem 9.7rem 0rem;
+  box-sizing: border-box;
+  padding: 1.8rem 3rem;
+  width: calc(100% - 22.8125rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #ffffff;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE .frame-16-EmW .vector-LpY {
+  margin-right: 2.5rem;
+  width: 2.4875rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE .frame-16-EmW .kontak-admin-r2C {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE .auto-group-zjmv-AHn {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE .auto-group-zjmv-AHn .ihsan-2-vGx {
+  margin-right: 1.7rem;
+  width: 13rem;
+  height: 13rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .auto-group-tnnu-LRE .auto-group-zjmv-AHn .ihsan-2qn {
+  font-size: 9.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 {
+  margin-top: 2.6rem;
+  height: 15.7rem;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-i8w4-7sE {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-i8w4-7sE .ellipse-11-sLc {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-i8w4-7sE .ellipse-12-d4t {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-i8w4-7sE .ellipse-13-yeY {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-kths-jNp {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-kths-jNp .ellipse-15-EKa {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-kths-jNp .ellipse-17-Aj2 {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-kths-jNp .ellipse-16-gBa {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-qnqw-2mE {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-qnqw-2mE .ellipse-19-P5z {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-qnqw-2mE .ellipse-23-jQk {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-qnqw-2mE .ellipse-21-rkG {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-1wmw-nP2 {
+  width: 3.9rem;
+  height: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-1wmw-nP2 .ellipse-20-L9e {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-1wmw-nP2 .ellipse-24-gUQ {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-pihv-ENC .group-304-ym2 .auto-group-1wmw-nP2 .ellipse-22-344 {
+  width: 100%;
+  height: 3.9rem;
+  background-color: #f2b300;
+  border-radius: 1.95rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv {
+  margin: 0rem 1.2rem 0.7rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-ftqg-h8c {
+  margin: 1.3rem 13.9rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-ftqg-h8c .wwwihsanpptiid-oxL {
+  margin-bottom: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-ftqg-h8c .member-of-pptik-itb-group-j5J {
+  margin-bottom: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-ftqg-h8c .member-of-pptik-itb-group-j5J .member-of-pptik-itb-group-j5J-sub-0 {
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-ftqg-h8c .member-of-pptik-itb-group-j5J .member-of-pptik-itb-group-j5J-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-ftqg-h8c .th-floor-gd-litbang-integrasi-dan-aplikasi-pau-jl-tamansari-no126-bandung-40132-indonesia-RcL {
+  max-width: 59.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.4300001144;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-zq88-hZr {
+  margin-right: 18.2rem;
+  row-gap: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-zq88-hZr .tautan-berguna-peU {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-zq88-hZr .services-mJp {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .auto-group-zq88-hZr .projects-sMr {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-wdjy-xRv .back-to-top-Qcg {
+  margin-top: 1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .blog-tGx {
+  margin: 0rem 0rem 0.1rem 10.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-u4iu-bx4 {
+  margin-right: 58.9rem;
+  width: calc(100% - 58.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-u4iu-bx4 .office-of-service-and-program-development-ptlskk-KNG {
+  margin-right: 21.1rem;
+  max-width: 51.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-u4iu-bx4 .office-of-service-and-program-development-ptlskk-KNG .office-of-service-and-program-development-ptlskk-KNG-sub-0 {
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-u4iu-bx4 .office-of-service-and-program-development-ptlskk-KNG .office-of-service-and-program-development-ptlskk-KNG-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-u4iu-bx4 .pricing-g6L {
+  margin-bottom: 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe {
+  margin-right: 58rem;
+  width: calc(100% - 58rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-h6v4-5uA {
+  margin: 0.2rem 13.1rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-h6v4-5uA .jl-pelajar-pejuang-45-no65lkr-sellengkongkota-bandungjawa-barat-40263-ceC {
+  margin-bottom: 0.9rem;
+  max-width: 59.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.4300001144;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-h6v4-5uA .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv {
+  max-width: 43.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.4300001144;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-h6v4-5uA .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv-sub-0 {
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-h6v4-5uA .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.4300001144;
+  letter-spacing: 0.2rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-h6v4-5uA .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv .telepon-022-7302571-022-73516650-whatsapp-0812-1455-8336-email-ptlskkgmasilcom-Jmv-sub-2 {
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-sern-Lc8 {
+  width: 11.1rem;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-sern-Lc8 .contact-Twe {
+  margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-sern-Lc8 .login-okc {
+  margin-bottom: 2.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.3rem;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-sern-Lc8 .auto-group-3ojg-8Xz {
+  margin-right: 1rem;
+  width: calc(100% - 1rem);
+  display: flex;
+  align-items: flex-end;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-sern-Lc8 .auto-group-3ojg-8Xz .uiw-facebook-H9z {
+  margin-right: 2.9rem;
+  width: 3.7rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-83p4-9Jp .auto-group-rbyc-xZe .auto-group-sern-Lc8 .auto-group-3ojg-8Xz .vector-pfi {
+  width: 3.5rem;
+  height: 3.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui {
+  width: 192rem;
+  height: 131.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .rectangle-29-qKv {
+  width: 192rem;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .ihsan-yBE {
+  width: 12.6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 26rem;
+  top: 2.7rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .solusi-terdepan-untuk-manajemen-perusahaan-modern-5zx {
+  width: 65.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 20.5rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .home-zs2 {
+  width: 6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 3.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #7620ff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .services-69N {
+  width: 8.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 74.2rem;
+  top: 3.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #191919;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .kami-percaya-bahwa-efisiensi-adalah-kunci-sukses-perusahaan-oleh-karena-itu-dengan-bangga-kami-mempersembahkan-produk-ihsan-yDA {
+  width: 59.5rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 49.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #191919;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .kami-percaya-bahwa-efisiensi-adalah-kunci-sukses-perusahaan-oleh-karena-itu-dengan-bangga-kami-mempersembahkan-produk-ihsan-yDA .kami-percaya-bahwa-efisiensi-adalah-kunci-sukses-perusahaan-oleh-karena-itu-dengan-bangga-kami-mempersembahkan-produk-ihsan-yDA-sub-0 {
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .kami-percaya-bahwa-efisiensi-adalah-kunci-sukses-perusahaan-oleh-karena-itu-dengan-bangga-kami-mempersembahkan-produk-ihsan-yDA .kami-percaya-bahwa-efisiensi-adalah-kunci-sukses-perusahaan-oleh-karena-itu-dengan-bangga-kami-mempersembahkan-produk-ihsan-yDA-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .pricing-moE {
+  width: 6.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 90.6rem;
+  top: 3.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #191919;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .mitra-fdi {
+  width: 4.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 106.6rem;
+  top: 3.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #191919;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .contact-Ppc {
+  width: 7.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 119.4rem;
+  top: 3.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #191919;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .frame-13-vZe {
+  width: 9rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 159rem;
+  top: 2.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0b093b;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .frame-15-Ait {
+  width: 11rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 146.5rem;
+  top: 2.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #0b093b;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .frame-14-BP6 {
+  box-sizing: border-box;
+  padding: 1.8rem 3rem;
+  width: 22.3875rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 64.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #0b093b;
+  border-radius: 0.8rem;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .frame-14-BP6 .vector-h6Y {
+  margin-right: 2.5rem;
+  width: 2.4875rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .frame-14-BP6 .mari-bicara-17E {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .ihsan-1-Vo6 {
+  width: 4.6rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 2.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-290-Ekg {
+  width: 70.3rem;
+  height: 70.3rem;
+  position: absolute;
+  left: 116.9rem;
+  top: 9.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .rectangle-118-9se {
+  width: 192rem;
+  height: 41.9rem;
+  position: absolute;
+  left: 0;
+  top: 89.9rem;
+  background-color: #0b093b;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68 {
+  width: 70.6rem;
+  height: 10rem;
+  position: absolute;
+  left: 28.5rem;
+  top: 97.2rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68 .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68-sub-0 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68 .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68 .jadikan-ihsan-sebagai-teman-baik-di-perusahaan-anda-u68-sub-2 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .asep-trisna-setiawan-ceo-9Pn {
+  width: 31.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 133.4rem;
+  top: 121.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-292-Fxc {
+  width: 8.8rem;
+  height: 7.3216rem;
+  position: absolute;
+  left: 162.8rem;
+  top: 86.2rem;
+  display: flex;
+  align-items: center;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-292-Fxc .rectangle-117-ydi {
+  margin-right: 0.7744rem;
+  width: 4.0128rem;
+  height: 7.3216rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-292-Fxc .rectangle-116-KxU {
+  width: 4.0128rem;
+  height: 7.3216rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-305-UqN {
+  width: 9.3rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 176.5rem;
+  top: 74.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-305-UqN .popup-1-PBe {
+  margin-bottom: 0.8rem;
+  width: 9.3rem;
+  height: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-9rc8-7ui .group-305-UqN .chat-me-uQt {
+  margin-right: 0.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #191919;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 {
+  box-sizing: border-box;
+  padding: 9.1rem 20.5rem 11.8rem 20.4rem;
+  width: 192rem;
+  height: 118.3rem;
+  position: absolute;
+  left: 0;
+  top: 152rem;
+  row-gap: 5.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-zwmj-KDi {
+  width: 100%;
+  height: 20rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-zwmj-KDi .absensi-sFE {
+  width: 19rem;
+  height: 5rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 12rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-zwmj-KDi .item-01-zKr {
+  width: 17.8rem;
+  height: 20rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  font-size: 16rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-zwmj-KDi .tidak-perlu-lagi-repot-dengan-catatan-absensi-manual-yang-memakan-waktu-ihsan-hadir-dengan-sistem-absensi-otomatis-yang-dapat-diakses-dengan-mudah-oleh-seluruh-karyawan-anda-melalui-fitur-modern-dan-inovatif-kami-anda-dapat-melacak-kehadiran-absen-cuti-dan-izin-dengan-cepat-dan-efisien-gyN {
+  width: 88.9rem;
+  height: 10rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 6.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-zwmj-KDi .vector-26-qjn {
+  width: 151.1rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 19.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-zwmj-KDi .group-310-kbr {
+  width: 12.3rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 30.8rem;
+  top: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-yxuc-sgU {
+  width: 100%;
+  height: 20rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-yxuc-sgU .e-jurnal-RCC {
+  width: 21.1rem;
+  height: 5rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 12rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-yxuc-sgU .item-02-JFz {
+  width: 18.5rem;
+  height: 20rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  font-size: 16rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-yxuc-sgU .digitalisasi-dan-penyimpanan-data-harian-perusahaan-anda-menjadi-lebih-efisien-dengan-ihsan-tidak-ada-lagi-kertas-berantakan-atau-jurnal-manual-yang-sulit-diakses-kami-menyediakan-platform-yang-memudahkan-anda-untuk-mencatat-dan-mengatur-informasi-penting-sehari-hari-seperti-laporan-kerja-catatan-proyek-dan-tugas-yang-harus-diselesaikan-semua-ini-dapat-diakses-secara-real-time-oleh-seluruh-tim-anda-2hn {
+  width: 88.2rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-yxuc-sgU .vector-27-k1W {
+  width: 151.1rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 19.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-yxuc-sgU .group-306-kvc {
+  width: 11.6926rem;
+  height: 9.85rem;
+  position: absolute;
+  left: 31.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-l6re-6zU {
+  width: 100%;
+  height: 20rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-l6re-6zU .e-rapat-2dE {
+  width: 19.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 12rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-l6re-6zU .item-03-Z7N {
+  width: 18.2rem;
+  height: 20rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  font-size: 16rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-l6re-6zU .dengan-e-rapat-ihsan-kami-mempersembahkan-solusi-modern-untuk-mencatat-kegiatan-rapat-dan-menciptakan-minutes-of-meeting-mom-yang-efisien-tidak-lagi-perlu-repot-dengan-pena-dan-kertas-atau-menyusun-catatan-manual-yang-rumit-ihsan-hadir-untuk-mengubah-cara-anda-mengelola-rapat-dan-memastikan-setiap-detail-penting-tercatat-dengan-sempurna-TyS {
+  width: 90.4rem;
+  height: 10rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 6.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-l6re-6zU .vector-28-Tc4 {
+  width: 151.1rem;
+  height: 0rem;
+  position: absolute;
+  left: 0;
+  top: 19.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-l6re-6zU .group-308-DLL {
+  width: 9.9rem;
+  height: 9.8735rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-gfmr-xHv {
+  width: 100%;
+  height: 20rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-gfmr-xHv .buku-tamu-7Ap {
+  width: 27rem;
+  height: 5rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 12rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-gfmr-xHv .item-04-NMe {
+  width: 19.7rem;
+  height: 20rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  font-size: 16rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #f2b300;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-gfmr-xHv .tingkatkan-kesan-pertama-yang-tak-terlupakan-dengan-menggunakan-buku-tamu-digital-ihsan-menerima-tamu-dengan-keanggunan-dan-kemudahan-menggunakan-layanan-kami-tidak-hanya-mempercepat-proses-pendaftaran-tamu-tetapi-juga-menyediakan-kemampuan-untuk-menyimpan-dan-mengelola-informasi-kontak-serta-keperluan-tamu-dengan-aman-dan-terorganisir-uMa {
+  width: 90.4rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 60.1rem;
+  top: 4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-gfmr-xHv .vector-29-6wr {
+  width: 151.1rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 19.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .auto-group-d26t-Ei4 .auto-group-gfmr-xHv .group-307-dwn {
+  width: 14.5rem;
+  height: 11.0418rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-page-Gnc .layanan-kami-ac8 {
+  width: 38rem;
+  height: 5rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 143rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.48rem;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .rekomendasi-layanan-untuk-kebutuhan-perusahaan-anda-4XJ {
+  width: 55.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 20.5rem;
+  top: 149.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-page-Gnc .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz {
+  width: 75.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 58.3rem;
+  top: 629.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #0b093b;
+  font-family: Readex Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-page-Gnc .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
+.landing-page-Gnc .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz .copyright-2023-ptlanggeng-sejahtera-kreasi-komputasi-csi-NXz-sub-2 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.2rem;
+  color: #000000;
+  font-family: Readex Pro, 'Source Sans Pro';
+}
