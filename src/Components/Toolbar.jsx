@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import '../assets/css/page.css'
 import image from "../assets/f.png"
+import { Link } from 'react-router-dom';
 
 class Toolbar extends Component {
   render() {
@@ -10,7 +11,8 @@ class Toolbar extends Component {
           <div className="rectangle-29-qKv">
             Konten atau elemen lain di dalam komponen
           </div>
-          <p className="ihsan-yBE">IHSAN</p>
+          <a href="/App.jsx" className="ihsan-yBE">IHSAN</a>
+
           <p className="solusi-terdepan-untuk-manajemen-perusahaan-modern-5zx">
             Solusi Terdepan,
             <br />
@@ -29,9 +31,11 @@ class Toolbar extends Component {
           <p className="pricing-moE">Pricing</p>
           <p className="mitra-fdi">Mitra</p>
           <p className="contact-Ppc">Contact</p>
-          <a href="login.html" className="frame-13-vZe" style={{ textDecoration: 'none' }}>
-            Login
-          </a>
+          <button className="frame-13-vZe" style={{ textDecoration: 'none' }}>
+            <a href="Login.html" style={{ textDecoration: 'none', color: 'inherit' }}>
+           Login
+         </a>
+          </button>
 
           <a href="landing-page.html" className="frame-15-Ait">
             Contact
