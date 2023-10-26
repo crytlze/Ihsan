@@ -1,5 +1,15 @@
 import React from 'react';
 import Image from './a.png'
+import Image296 from './assets/296.png'
+import Call from './assets/vector.png'
+import Image293 from './assets/293.png'
+import Image297 from './assets/297.png'
+import Image294 from './assets/g294.png'
+import V30 from './assets/v30.png'
+import E4 from './assets/E4.png'
+import g253 from './assets/g253.png'
+
+
 
 function Packet() {
   return (
@@ -12,15 +22,15 @@ function Packet() {
           <span className="span">Paket Sesuai Kebutuhan</span>
           <span className="text-wrapper"> Anda</span>
         </p>
-        <img className="group" alt="Group" src="group-296.png" />
-        <img className="img" alt="Group" src="group-297.png" />
+        <img className="group" alt="Group" src={Image296} />
+        <img className="img" alt="Group" src={Image297} />
         <div className="div">
           <div className="overlap-group">
             <div className="overlap-group-wrapper">
               <div className="overlap-group-2">
                 <div className="rectangle-2" />
                 <div className="frame">
-                  <img className="vector" alt="Vector" src="vector.svg" />
+                  <img className="vector" alt="Vector" src={Call} />
                   <div className="text-wrapper-2">Info Selengkapnya</div>
                 </div>
                 <div className="text-wrapper-3">Absensi</div>
@@ -36,18 +46,18 @@ function Packet() {
                 <div className="text-wrapper-9">Buku Panduan</div>
                 <p className="p">Data Base Up to 1000 data</p>
                 <div className="text-wrapper-10">Website Admin</div>
-                <img className="vector-2" alt="Vector" src="vector-30.svg" />
-                <img className="vector-3" alt="Vector" src="vector-31.svg" />
-                <img className="group-2" alt="Group" src="group-253.png" />
-                <img className="group-3" alt="Group" src="group-293.png" />
-                <img className="group-4" alt="Group" src="group-294.png" />
+                <img className="vector-2" alt="Vector" src={V30} />
+                <img className="vector-3" alt="Vector" src={V30} />
+                <img className="group-2" alt="Group" src={Image293}/>
+                <img className="group-3" alt="Group" src={Image293} />
+                <img className="group-4" alt="Group" src={Image293} />
               </div>
             </div>
             <div className="div-wrapper">
               <div className="overlap-2">
                 <div className="rectangle-3" />
                 <div className="frame-2">
-                  <img className="vector" alt="Vector" src="image.svg" />
+                  <img className="vector" alt="Vector" src={Call} />
                   <div className="text-wrapper-2">Info Selengkapnya</div>
                 </div>
                 <div className="text-wrapper-11">E-Rapat</div>
@@ -63,11 +73,11 @@ function Packet() {
                 <div className="text-wrapper-14">Buku Panduan</div>
                 <p className="text-wrapper-15">Data Base Up to 1000 data</p>
                 <div className="text-wrapper-16">Website Admin</div>
-                <img className="vector-4" alt="Vector" src="vector-30-2.svg" />
-                <img className="vector-5" alt="Vector" src="vector-31-2.svg" />
-                <img className="group-5" alt="Group" src="image.png" />
-                <img className="group-6" alt="Group" src="group-293-2.png" />
-                <img className="group-7" alt="Group" src="group-294-2.png" />
+                <img className="vector-4" alt="Vector" src={V30} />
+                <img className="vector-5" alt="Vector" src= {V30} />
+                <img className="group-5" alt="Group" src={g253} />
+                <img className="group-6" alt="Group" src={g253} />
+                <img className="group-7" alt="Group" src={g253} />
               </div>
             </div>
           </div>
@@ -92,11 +102,11 @@ function Packet() {
                 <div className="text-wrapper-9">Buku Panduan</div>
                 <p className="p">Data Base Up to 1000 data</p>
                 <div className="text-wrapper-10">Website Admin</div>
-                <img className="vector-2" alt="Vector" src="vector-30-3.svg" />
-                <img className="vector-3" alt="Vector" src="vector-31-3.svg" />
-                <img className="group-2" alt="Group" src="group-253-2.png" />
-                <img className="group-3" alt="Group" src="group-293-3.png" />
-                <img className="group-4" alt="Group" src="group-294-3.png" />
+                <img className="vector-2" alt="Vector" src={V30} />
+                <img className="vector-3" alt="Vector" src={V30} />
+                <img className="group-2" alt="Group" src={Image293}/>
+                <img className="group-3" alt="Group" src={Image293} />
+                <img className="group-4" alt="Group" src={Image293} />
               </div>
             </div>
             <div className="div-wrapper">
@@ -119,11 +129,11 @@ function Packet() {
                 <div className="text-wrapper-14">Buku Panduan</div>
                 <p className="text-wrapper-15">Data Base Up to 1000 data</p>
                 <div className="text-wrapper-16">Website Admin</div>
-                <img className="vector-4" alt="Vector" src="vector-30-4.svg" />
-                <img className="vector-5" alt="Vector" src="vector-31-4.svg" />
-                <img className="group-5" alt="Group" src="group-253-3.png" />
-                <img className="group-6" alt="Group" src="group-293-4.png" />
-                <img className="group-7" alt="Group" src="group-294-4.png" />
+                <img className="vector-4" alt="Vector" src={V30} />
+                <img className="vector-5" alt="Vector" src={V30}/>
+                <img className="group-5" alt="Group" src={g253}/>
+                <img className="group-6" alt="Group" src={g253} />
+                <img className="group-7" alt="Group" src={g253} />
               </div>
             </div>
           </div>

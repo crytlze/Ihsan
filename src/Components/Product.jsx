@@ -1,6 +1,8 @@
 import React from 'react';
 import "./style.css";
 import Image1 from './assets/aa.png'
+import V26 from './assets/v26.png'
+
 
 
 
@@ -20,7 +22,7 @@ function Product() {
         <div className="text-wrapper-3">LAYANAN KAMI</div>
         <p className="text-wrapper-4">Rekomendasi Layanan untuk Kebutuhan Perusahaan Anda.</p>
       </div>
-      <img className="vector" alt="Vector" src= ""/>
+      <img className="vector" alt="Vector" src= {V26}/>
 
       <div className="group">
         <div className="overlap-group">

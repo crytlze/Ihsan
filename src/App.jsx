@@ -7,6 +7,7 @@ import Packet from './Components/Packet';
 import Partner from './Components/Partner';
 import AboutUs from './Components/AboutUs';
 import Login from './Components/Login';
+import Profile from './Components/Profile';
 //import Greeting from './Components/Greeting';
 
 
@@ -21,7 +22,7 @@ function App() {
       <Packet/>
       <Partner/>
       <AboutUs/>
-      <Login/>
+      
 
     </div>
   );
